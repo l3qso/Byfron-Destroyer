@@ -8,8 +8,7 @@ A powerful Roblox Byfron Anti-Cheat destroyer. [Beta]
 > It is not forced to use Byfron Destroyer if you feel like it's not trust worthy. <
 
 < < < Why is Byfron Destroyer detected as a virus? > > >
-> Byfron Destroyer isn't a virus but it's still detected by anti-virus softwares.<
-> Why? Byfron Destroyer needs access to Roblox folder in-case to delete Byfron Technologies *hidden* folder.<
+> Byfron Destroyer isn't a virus but it's still detected by anti-virus softwares because it needs access to Roblox folder in-case to delete Byfron Technologies *hidden* folder.<
 
 < < < Do I have to redownload Byfron Destroyer when the new version comes out? > > >
 > After downloading Byfron Destroyer it will get auto-updated every time new version comes out. *Which can be turned off in settings (not recommended).*
