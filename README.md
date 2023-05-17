@@ -1,5 +1,5 @@
 # Byfron-Destroyer
-A powerful Roblox Byfron Anti-Cheat destroyer. [Beta]
+**A powerful Roblox Byfron Anti-Cheat Destroyer.**
 
 < < < How long does the process take? > > >
 > Process usually takes 2 - 5 minutes *depends on your PC/Laptop*. <
