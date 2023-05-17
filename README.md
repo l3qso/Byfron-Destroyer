@@ -7,7 +7,7 @@ A powerful Roblox Byfron Anti-Cheat destroyer. [Beta]
 < < < Why should I trust Byfron Destroyer? > > >
 > It is not forced to use Byfron Destroyer if you feel like it's not trust worthy. <
 
-< < < Why is it detected as a virus? > > >
+< < < Why is Byfron Destroyer detected as a virus? > > >
 > Byfron Destroyer isn't a virus but it's still detected by anti-virus softwares.<
 > Why? Byfron Destroyer needs access to Roblox folder in-case to delete Byfron Technologies *hidden* folder.<
 
